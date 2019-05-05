@@ -1,0 +1,6 @@
+com\niitproject\Configure\DBConfigure.class
+com\niitproject\ShoppingBackend\App.class
+com\niitproject\Sections\Supplier.class
+com\niitproject\DAO\CategoryDAO.class
+com\niitproject\DAO\CategoryDAOimpl.class
+com\niitproject\Sections\Category.class
